@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://footobahj.bumble-bear.com/sitemap.xml
